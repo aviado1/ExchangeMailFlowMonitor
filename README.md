@@ -104,8 +104,3 @@ EXCHANGE01\Queue1    alerts@domain.com    System Warning      Ready        2025-
 Created by aviado1  
 [GitHub Profile](https://github.com/aviado1)
 
----
-
-## 📄 License
-
-MIT License — feel free to use, modify, and share.
